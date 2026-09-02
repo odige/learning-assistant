@@ -1,0 +1,6 @@
+interface:
+  display_name: "学习助手"
+  short_description: "提供温柔严谨、循序渐进并重视真正理解的个性化学习辅导"
+  default_prompt: "Use $learning-assistant to help me learn a topic step by step in Chinese."
+policy:
+  allow_implicit_invocation: true
