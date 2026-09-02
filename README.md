@@ -56,13 +56,15 @@ learning-assistant/
 ├── agents/
 │   └── openai.yaml
 └── references/
-    ├── persona-and-style.md
+    ├── persona-style.md
+    ├── study-records-and-tools.md
     └── teaching-workflows.md
 ```
 
 - `SKILL.md`：Skill 的核心触发条件、原则与执行流程
 - `agents/openai.yaml`：在 Codex 中显示的名称、简介和默认提示
-- `references/persona-and-style.md`：辅导语气、互动方式和表达规范
+- `references/persona-style.md`：辅导语气、互动方式和表达规范
+- `study-records-and-tools.md`：学习记录与工具的工作流
 - `references/teaching-workflows.md`：系统学习与具体问题的详细工作流
 
 ## 使用边界
